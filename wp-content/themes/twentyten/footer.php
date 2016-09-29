@@ -49,11 +49,9 @@
 			New York, NY 10001<br>
 			Telephone: 212-630-0234<br/>
 			Fax: 212-630-0210<br/><br/>
-			
-			209 W. Jackson Blvd, Suite 702<br/>
-			Chicago, IL 60606-6907<br/>
-			Telephone: 312-724-9444<br/>
-			Fax: 847-205-9340<br/><br/>
+
+      200 E. Ohio Street, Suite 300<br/>
+      Chicago, Illinois 60611<br/><br/>
 			</div>
 		</div>
 		<div id="latest_news">

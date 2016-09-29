@@ -23,8 +23,9 @@ get_header(); ?>
 			</div><!-- #content -->
 		</div><!-- #container -->
 
-<?php if(in_category(7)) {
-	get_sidebar('team');
-}
-else { get_sidebar();} ?>
+<?php
+  //if(in_category(7)) { get_sidebar('team'); }
+  //else { get_sidebar(); }
+?>
+<?php get_sidebar(); ?>
 <?php get_footer(); ?>
