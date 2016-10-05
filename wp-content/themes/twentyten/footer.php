@@ -42,16 +42,21 @@
 			<img src="<?php echo home_url( '/' ).'wp-content/themes/'.get_template().'/images/display.png'; ?>"/>
 			<h2>ABOUT US</h2>
 			<div id="aboutus_content">
-			June Media is a leading content provider for women as well an affiliate network that enables its advertising clients to generate 
-			high volumes of top-quality customer leads and sales on a pay-for-performance basis. June Media is a  privately held 
-			company with offices in both New York and Chicago.<br/><br/>
-			276 5th Ave Suite #901<br>
-			New York, NY 10001<br>
-			Telephone: 212-630-0234<br/>
-			Fax: 212-630-0210<br/><br/>
+        <p>June Media is a leading content provider for women as well an affiliate network that enables its advertising clients to generate
+        high volumes of top-quality customer leads and sales on a pay-for-performance basis. June Media is a privately held
+        company with offices in both New York and Chicago.</p>
 
-      200 E. Ohio Street, Suite 300<br/>
-      Chicago, Illinois 60611<br/><br/>
+        <address>
+          276 5th Ave Suite #901<br>
+          New York, NY 10001<br>
+          Telephone: 212-630-0210<br/>
+          Fax: 212-630-0234<br/>
+        </address>
+
+        <address>
+          200 E. Ohio Street, Suite 300<br/>
+          Chicago, Illinois 60611<br/>
+        </address>
 			</div>
 		</div>
 		<div id="latest_news">

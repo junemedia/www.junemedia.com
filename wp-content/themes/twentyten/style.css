@@ -1634,6 +1634,12 @@ h3#reply-title {
     margin-top: 10px;
     width: 260px;
 }
+
+#aboutus_content address {
+  font-style: normal;
+  margin: 1.5em 0;
+}
+
 #latestnews_content .submain_content {margin-top: 15px;}
 #latestnews_content .submain_content ul{float:left;padding:0 ;margin:0;}
 #latestnews_content .submain_content ul li{ 
