@@ -50,7 +50,6 @@
           276 5th Ave Suite #901<br>
           New York, NY 10001<br>
           Telephone: 212-630-0210<br/>
-          Fax: 212-630-0234<br/>
         </address>
 
         <address>
